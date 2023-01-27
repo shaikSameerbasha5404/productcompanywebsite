@@ -200,25 +200,15 @@ home.html
       <div class="content">
         <div class="homecontent">
           <h1>About Us</h1>
-          <img src="./img/building.png" alt="Building" />
           <div class="contenttext">
-            At Tally, we believe in the power of technology to make business
-            owners efficient, empowered and happier, so they can focus on what
-            matters most for their business. We design our products to focus on
-            just that to make our products work for you, and not the other way
-            around.
-            <br />
-            Our new product TallyPrime takes this to a new level, making your
-            start to automation, or your switch to Tally simpler than ever
-            before. You can now discover the product much more easily and make
-            the product do more for you, without learning anything new. There is
-            greater flexibility as the product adapts to your business and your
-            way of working. And the transformed look and feel will only make you
-            love the product even more.
+              A growing body of research supports the role of gut health in overall health and wellbeing. Some fermented foods contain probiotics; active bacterial cultures with unique characteristics that allow them to survive in the gastrointestinal tract. When consumed in adequate amounts, they provide a health benefit and have the potential to maintain the natural balance of the gut microbiota.
+
+Fermented dairy products such as yoghurt, culture drinks and kefir are some of the most common and easily available sources of probiotics. These products are an ideal vehicle for probiotics as the composition of milk (which includes carbohydrate, protein and fat) acts as a protective matrix to help the survival of probiotics from the digestive system through to the gut, including helping them survive the adverse conditions of the stomach.
+            
             <ul>
-              <li>Simple to learn, easier to use</li>
-              <li>Insightful , actionable & customizable reports</li>
-              <li>Anywhere, anytime and secure access</li>
+              <li>Keep muscles, bones, nerves, teeth, skin and vision healthy.</li>
+              <li>Release energy from foods and reduce tiredness and fatigue.</li>
+              <li>Maintain healthy blood pressure.</li>
             </ul>
           </div>
         </div>
@@ -295,9 +285,10 @@ products.html
 ```
 ## OUTPUT:
 ### Home Page:
-![Screenshot (69)](https://user-images.githubusercontent.com/118707756/215104697-75f54bcd-2bc4-4e95-83e7-0cedda3c2070.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/118707756/215131932-d03efa5b-a1c9-4eff-b075-c53b324e3927.png)
+
 ### Products Page:
-![Screenshot (70)](https://user-images.githubusercontent.com/118707756/215104893-3a808755-e4f7-4bcb-aeaf-96e8869184a2.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/118707756/215132193-7549290b-21d1-4194-b1ec-3ea385f4b6d4.png)
 ### HTML VALIDATOR:
 #![Screenshot (71)](https://user-images.githubusercontent.com/118707756/215105799-099e7c5c-6280-4505-bac1-f6e556fe6010.png)
 ## Result:
